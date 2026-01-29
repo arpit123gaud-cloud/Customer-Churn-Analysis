@@ -6,27 +6,37 @@ Customer churn is a major challenge for subscription-based businesses. This proj
 **Objective**
 
 Analyze customer behavior and service subscriptions
+
 Identify patterns associated with customer churn
+
 Support data-driven decision-making for retention improvement
 
 **Tools & Technologies**
 
 Python
+
 Jupyter Notebook
+
 Pandas – data manipulation and cleaning
+
 Matplotlib & Seaborn – data visualization
 
 **Analysis Performed**
 
 Data cleaning and preprocessing
+
 Exploratory Data Analysis (EDA) on service usage
+
 Visualization of customer distribution across different services
+
 Identification of churn-related patterns in customer behavior
 
 **Business Impact**
 
 Helps identify high-risk churn segments
+
 Supports targeted retention and marketing strategies
+
 Assists in improving service bundles and customer experience
 
 **Conclusion**
